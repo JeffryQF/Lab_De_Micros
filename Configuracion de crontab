@@ -1,4 +1,5 @@
-
+Run crontab with the -e flag to edit the cron table:
+#sudo crontab -e
 # m h  dom mon dow   command
 # * * * * *  command to execute
 # ┬ ┬ ┬ ┬ ┬
